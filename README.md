@@ -23,9 +23,3 @@ Install dependencies using:
 ```bash
 pip install transformers[torch] accelerate pdfplumber rouge-score nltk ipywidgets
 
-
-Usage:
-1. Open t5_v2.ipynb in Google Colab.
-2. Mount your Google Drive.
-3. Place your PDF files in the folder: /content/drive/MyDrive/Papers
-4. Run all cells to process and summarize the papers.
